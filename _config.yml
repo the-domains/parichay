@@ -1,0 +1,28 @@
+name: PARICHAY
+favicon: null
+layout_spectrum: 0.17484208312816918
+typography_spectrum: 0.8352879087906331
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.14525486412458122
+  lightness: 0.35715973749756813
+  saturation: 0.19159541209228337
+  rhythmicContrast: 0.011878245510160923
+purpose: []
